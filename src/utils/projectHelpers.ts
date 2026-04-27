@@ -1,4 +1,4 @@
-import { Project, Category, SortField, SortOrder } from "../types/project";
+import type { Project, Category, SortField, SortOrder } from "../types/project";
 
 export function applyFilters(
   projects: Project[],

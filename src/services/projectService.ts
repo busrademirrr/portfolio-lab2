@@ -1,4 +1,4 @@
-import { Project } from "../types/project";
+import type { Project } from "../types/project";
 
 export async function fetchProjects(): Promise<Project[]> {
   // Simulating network delay for realism
