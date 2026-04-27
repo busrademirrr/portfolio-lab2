@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Veerify",
+    "description": "Sektörel potansiyeli oldukça yüksek olan, yapay zeka destekli bir yalan haber (fake news) tespit sistemi. Geliştirme süreci aktif olarak devam etmektedir.",
+    "tech": ["Yapay Zeka", "Veri Bilimi", "NLP"],
+    "year": 2026,
+    "category": "AI",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Panomda",
+    "description": "Kullanıcıların notlarını, görevlerini ve fikirlerini organize edebilecekleri dijital bir tuval platformu. Co-Developer olarak geliştirme sürecine katkı sağladım.",
+    "tech": ["Next.js", "TypeScript"],
+    "year": 2025,
+    "category": "frontend",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "NovaTravel & AI Portal",
+    "description": "Kullanıcıların hayalindeki tatili bulmasını sağlayan, yapay zeka destekli sohbet botu (NovaBot) barındıran dinamik turizm acentesi otomasyonu.",
+    "tech": ["C#", "ASP.NET MVC 5", "MS SQL"],
+    "year": 2024,
+    "category": "backend",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Breast Cancer KNN Analysis",
+    "description": "Wisconsin veri setini kullanarak K-En Yakın Komşu algoritması ile kanser teşhisi. Boyut indirgeme tekniklerinin model performansına etkisinin karşılaştırmalı analizi.",
+    "tech": ["Python", "Scikit-Learn", "PCA", "NCA"],
+    "year": 2024,
+    "category": "AI",
+    "featured": false
+  }
+]
